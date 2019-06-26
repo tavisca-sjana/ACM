@@ -1,0 +1,9 @@
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Source\bin\Debug\netstandard2.0\ACM.bl.Source.deps.json
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Source\bin\Debug\netstandard2.0\ACM.bl.Source.dll
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Source\bin\Debug\netstandard2.0\ACM.bl.Source.pdb
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Source\obj\Debug\netstandard2.0\ACM.bl.Source.csprojAssemblyReference.cache
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Source\obj\Debug\netstandard2.0\ACM.bl.Source.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Source\obj\Debug\netstandard2.0\ACM.bl.Source.AssemblyInfoInputs.cache
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Source\obj\Debug\netstandard2.0\ACM.bl.Source.AssemblyInfo.cs
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Source\obj\Debug\netstandard2.0\ACM.bl.Source.dll
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Source\obj\Debug\netstandard2.0\ACM.bl.Source.pdb

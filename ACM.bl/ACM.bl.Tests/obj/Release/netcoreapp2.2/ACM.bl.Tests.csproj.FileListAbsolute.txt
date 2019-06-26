@@ -1,0 +1,4 @@
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Tests\obj\Release\netcoreapp2.2\ACM.bl.Tests.csprojAssemblyReference.cache
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Tests\obj\Release\netcoreapp2.2\ACM.bl.Tests.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Tests\obj\Release\netcoreapp2.2\ACM.bl.Tests.AssemblyInfoInputs.cache
+C:\Users\KIIT\work\ACM\ACM.bl\ACM.bl.Tests\obj\Release\netcoreapp2.2\ACM.bl.Tests.AssemblyInfo.cs
